@@ -72,3 +72,11 @@ controllers / dtos : API REST de consultation
 🔹 Application
 
 Classe principale Spring Boot pour démarrer l’application
+
+**Exécution**
+
+-Lancer Axon Server
+
+-Démarrer l’application Spring Boot
+
+-Tester les API avec Postman
