@@ -3,9 +3,11 @@ package ma.enset.eventsourcingcqrsspringaxonapp.commandes.controllers;
 import ma.enset.eventsourcingcqrsspringaxonapp.commandes.commands.AddAccountCommand;
 import ma.enset.eventsourcingcqrsspringaxonapp.commandes.commands.CreditAccountCommand;
 import ma.enset.eventsourcingcqrsspringaxonapp.commandes.commands.DebitAccountCommand;
+import ma.enset.eventsourcingcqrsspringaxonapp.commandes.commands.UpdateAccountStatusCommand;
 import ma.enset.eventsourcingcqrsspringaxonapp.commandes.dto.AddNewAccountRequestDTO;
 import ma.enset.eventsourcingcqrsspringaxonapp.commandes.dto.CreditAccountRequestDTO;
 import ma.enset.eventsourcingcqrsspringaxonapp.commandes.dto.DebitAccountRequestDTO;
+import ma.enset.eventsourcingcqrsspringaxonapp.commandes.dto.UpdateAccountStatusRequestDTO;
 import org.axonframework.commandhandling.gateway.CommandGateway;
 import org.axonframework.eventsourcing.eventstore.EventStore;
 
