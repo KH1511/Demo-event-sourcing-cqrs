@@ -1,4 +1,4 @@
-***CQRS & Event Sourcing – Activité Pratique***
+****CQRS & Event Sourcing****
 
 **Présentation du projet**
 
